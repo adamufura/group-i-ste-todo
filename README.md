@@ -8,7 +8,7 @@
 
 1. NAS/STE/19/1156 - SULEIMAN ADAMU FURA - [Visit GitHub](https://github.com/)
 
-2. NAS/STE/19/1035 - ALIYU ABDULRAZAK -  [Visit GitHub](https://github.com/)
+2. NAS/STE/19/1035 - ALIYU ABDULRAZAK -  [Visit GitHub](https://github.com/adamufura/group-i-ste-todo/tree/main/settings)
 
 3. NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF
 
