@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Todo List</title>
+    <link rel="stylesheet" type="text/css" href="edit-todo.css">
+</head>
+<body>
+    <h1>To-Do List</h1>
+    
+    <form id="todoForm">
+        <input type="text" id="todoItem" placeholder="Add a new to-do">
+        <button type="button" onclick="addTodo()">Add</button>
+    </form>
+
+    <ul id="todoList">
+        <!-- To-do items will be added here -->
+    </ul>
+
+    <script>
+        function addTodo() {
+            var todoText = document.getElementById("todoItem").value;
+            if (todoText.trim() !== "") {
+                var listItem = document.createElement("li");
+                listItem.innerHTML = `
+                    <span class="todo-text">${todoText}</span>
+                    <button class="edit-button" onclick="editTodo(this)">Edit</button>
+                `;
+                document.getElementById("todoList").appendChild(listItem);
+                document.getElementById("todoItem").value = "";
+            }
+        }
+
+        function editTodo(button) {
+            var listItem = button.parentNode;
+            var todoText = listItem.querySelector(".todo-text").textContent;
+            var updatedText = prompt("Edit the to-do item:", todoText);
+            if (updatedText !== null && updatedText.trim() !== "") {
+                listItem.querySelector(".todo-text").textContent = updatedText;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.settings {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.dark-mode-toggle {
+    display: flex;
+    align-items: center;
+}
+
+.dark-mode-toggle label {
+    margin-right: 10px;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.dark-mode-toggle label,
+.dark-mode-toggle input[type="checkbox"] {
+    background-color: grey;
+    color: black;
+}
+
+.dark-mode-toggle input[type="checkbox"]:checked + label {
+    background-color: #28a745;
+}
