@@ -6,9 +6,9 @@
 
 ## REGISTRATION NUMBER - NAME - Link to Work
 
-1. NAS/STE/19/1156 - SULEIMAN ADAMU FURA
+1. NAS/STE/19/1156 - SULEIMAN ADAMU FURA - [Visit GitHub](https://github.com/)
 
-2. NAS/STE/19/1035 - ALIYU ABDULRAZAK
+2. NAS/STE/19/1035 - ALIYU ABDULRAZAK -  [settings-branch]([https://github.com/](https://github.com/adamufura/group-i-ste-todo/tree/main/settings)
 
 3. NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF
 
