@@ -1,17 +1,17 @@
-# ste-todo
+# (GROUP I)
 
-(GROUP I) WORK, We work on a STE TODO which is a website where software engineering students can work on their TODOS instead of notes
+### We work on STE TODO Project which is a website where software engineering students can work on their TODOS instead of using notes, each student works on a specific feature by using their own branch. Below are the registration numbers, fullnames and links to contributions for each group member.
 
 # GROUP MEMBERS
 
-## REGISTRATION NUMBER - NAME
+## REGISTRATION NUMBER - NAME - Link to Work
 
-### NAS/STE/19/1156 - SULEIMAN ADAMU FURA
+### 1. NAS/STE/19/1156 - SULEIMAN ADAMU FURA
 
-### NAS/STE/19/1035 - ALIYU ABDULRAZAK (@)
+### 2. NAS/STE/19/1035 - ALIYU ABDULRAZAK
 
+### 3. NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF
 
-### NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF (@Zakariyaabu)
+### 4. NAS/STE/19/1015 - ABUBAKAR AHMAD SADIQ
 
-
-### NAS/STE/19/1015 - ABUBAKAR @sadiq64
+### 5. NAS/STE/19/1107 - YAHAYA ABBA YAHAYA
