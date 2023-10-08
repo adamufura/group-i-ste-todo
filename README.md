@@ -10,8 +10,10 @@
 
 2. NAS/STE/19/1035 - ALIYU ABDULRAZAK -  [Settings-branch](https://github.com/adamufura/group-i-ste-todo/tree/main/settings)
 
-3. NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF
+3. NAS/STE/19/1076 - MUHAMMAD ZAKATRIYA YUSUF - [Visit GitHub](https://github.com/)
 
-4. NAS/STE/19/1015 - ABUBAKAR AHMAD SADIQ
+4. NAS/STE/19/1015 - ABUBAKAR AHMAD SADIQ - [Visit GitHub](https://github.com/)
 
-5. NAS/STE/19/1107 - YAHAYA ABBA YAHAYA
+5. NAS/STE/19/1107 - YAHAYA ABBA YAHAYA - [Visit GitHub](https://github.com/adamufura/group-i-ste-todo/tree/main/CreateAccount)
+
+6. NAS/STE/19/1061 - LAWAN MUHAMMAD BAWA - [Visit GitHub](https://github.com/)
