@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>To-Do List</title>
+</head>
+<body>
+    <h1>To-Do List</h1>
+    
+    <form id="todoForm">
+        <input type="text" id="todoItem" placeholder="Add a new to-do">
+        <button type="button" onclick="addTodo()">Add</button>
+    </form>
+
+    <ul id="todoList">
+        <!-- To-do items will be added here -->
+    </ul>
+
+    <script>
+        function addTodo() {
+            var todoText = document.getElementById("todoItem").value;
+            if (todoText.trim() !== "") {
+                var listItem = document.createElement("li");
+                listItem.textContent = todoText;
+                document.getElementById("todoList").appendChild(listItem);
+                document.getElementById("todoItem").value = "";
+            }
+        }
+    </script>
+</body>
+</html>

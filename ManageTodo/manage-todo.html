@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="manage-todo.css" />
+    <title>To-Do List</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>To-Do List</h1>
+      <div class="add-task">
+        <input type="text" id="task" placeholder="Add a new task" />
+        <button onclick="addTask()">Add</button>
+      </div>
+      <ul id="taskList">
+        <!-- Dummy To-Do List -->
+        <li>
+          <span>Buy groceries</span>
+          <button class="edit-button" onclick="editTask(this)">Edit</button>
+          <button class="delete-button" onclick="deleteTask(this)">
+            Delete
+          </button>
+        </li>
+        <li>
+          <span>Finish homework</span>
+          <button class="edit-button" onclick="editTask(this)">Edit</button>
+          <button class="delete-button" onclick="deleteTask(this)">
+            Delete
+          </button>
+        </li>
+        <li>
+          <span>Go for a run</span>
+          <button class="edit-button" onclick="editTask(this)">Edit</button>
+          <button class="delete-button" onclick="deleteTask(this)">
+            Delete
+          </button>
+        </li>
+        <!-- End of Dummy To-Do List -->
+      </ul>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

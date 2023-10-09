@@ -1,0 +1,62 @@
+/* Style for the to-do list container */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: lightgray
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+/* Style for the to-do input form */
+#todoForm {
+    margin: 22px;
+}
+
+#todoItem {
+    width: 60%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style for the to-do list items */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background-color: white;
+    margin: 7px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Hover effect on list items */
+li:hover {
+    background-color: #f2f2f2;
+    color: lightgray
+}
+
+/* Responsive styling for smaller screens */
+@media (max-width: 768px) {
+    #todoItem {
+        width: 100%;
+    }
+    
+}
