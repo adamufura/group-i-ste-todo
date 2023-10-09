@@ -31,7 +31,7 @@ GITHUB: [Github username](https://github.com/adamufura)
 
 10. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
 
-11. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
+11. NAS/STE/19/1115 - YUSUF AHMAD DUTSE  - [Readme](https://github.com/adamufura/group-i-ste-todo/commit/6ad16a4f7afbc8e186a959ebaee40d41e02d8908)
 
 12.  NAS/STE/19/1165 - kabir Ibrahim - [ste-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/ste-todo)
 
