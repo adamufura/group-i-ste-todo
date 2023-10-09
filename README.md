@@ -17,3 +17,5 @@
 5. NAS/STE/19/1107 - YAHAYA ABBA YAHAYA - [CreateAccount](https://github.com/adamufura/group-i-ste-todo/tree/main/CreateAccount)
 
 6. NAS/STE/19/1061 - LAWAN MUHAMMAD BAWA - [logout-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/logout-todo)
+
+7. NAS/STE/19/1130 - Jamilu Almustapha Nass - [Edit-Todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Edit-todo)
