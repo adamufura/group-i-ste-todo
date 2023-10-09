@@ -2,6 +2,11 @@
 
 ### We work on STE TODO Project which is a website where software engineering students can work on their TODOS instead of using notes, each student works on a specific feature by using their own branch. Below are the registration numbers, fullnames and links to contributions for each group member.
 
+## GROUP MEMBER:
+NAME: SULEIMAN ADAMU FURA
+REGISTRATION NUMBER: NAS/STE/19/1156
+GITHUB: [Github username](https://github.com/adamufura)
+
 # GROUP MEMBERS
 
 ## REGISTRATION NUMBER - NAME - Link to Work
@@ -16,10 +21,18 @@
 
 5. NAS/STE/19/1107 - YAHAYA ABBA YAHAYA - [CreateAccount](https://github.com/adamufura/group-i-ste-todo/tree/main/CreateAccount)
 
-6. NAS/STE/19/1061 - LAWAN MUHAMMAD BAWA - [logout-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/logout-todo)
+6.  Nas/STE/19/1121 - Fa’izu Saleh Ado - [Add-todo](https://github.com/adamufura/group-i-ste-todo/blob/main/Add-todo/Add-todo.html)
 
-7. NAS/STE/19/1130 - Jamilu Almustapha Nass - [Edit-Todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Edit-todo)
+7. NAS/STE/19/1061 - LAWAN MUHAMMAD BAWA - [logout-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/logout-todo)
 
-8. NAS/STE/19/1166 - Zaharadeen Ibrahim - [change password](https://github.com/adamufura/group-i-ste-todo/tree/main/change%20password)
+8. NAS/STE/19/1130 - Jamilu Almustapha Nass - [Edit-Todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Edit-todo)
 
-9. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
+9. NAS/STE/19/1166 - Zaharadeen Ibrahim - [change password](https://github.com/adamufura/group-i-ste-todo/tree/main/change%20password)
+
+10. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
+
+11. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
+
+12.  NAS/STE/19/1165 - kabir Ibrahim - [ste-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/ste-todo)
+
+13.  
