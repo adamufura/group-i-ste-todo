@@ -39,4 +39,9 @@ GITHUB: [Github username](https://github.com/adamufura)
   
 14.  Nas/ste/19/1113  - Abubakar Aliyu  - [ste-todo](https://github.com/adamufura/group-i-ste-todo)
 
-16.  
+15. Nas/ste/19/1114  - Aliyu Dauda Goro  - [ste-todo](https://github.com/adamufura/group-i-ste-todo)
+
+16.  NAS/ste/19/1170  - Abubakar Salihu  - [ste-todo](https://github.com/adamufura/group-i-ste-todo)
+
+17.  Nas/ste/20/2114 - Almansir mansir  - [ste-todo](https://github.com/adamufura/group-i-ste-todo)
+
