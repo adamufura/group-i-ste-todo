@@ -21,3 +21,5 @@
 7. NAS/STE/19/1130 - Jamilu Almustapha Nass - [Edit-Todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Edit-todo)
 
 8. NAS/STE/19/1166 - Zaharadeen Ibrahim - [change password](https://github.com/adamufura/group-i-ste-todo/tree/main/change%20password)
+
+9. NAS/STE/19/1157 - FARUK ABDULKADIR KOGO  - [Add-todo](https://github.com/adamufura/group-i-ste-todo/tree/main/Add-todo)
